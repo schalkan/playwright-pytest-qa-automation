@@ -1,5 +1,7 @@
 # Playwright QA Automation Suite
 
+![Tests](https://github.com/schalkan/playwright-pytest-qa-automation/actions/workflows/tests.yml/badge.svg)
+
 An end-to-end UI and API test automation suite built with Playwright and Python, demonstrating the Page Object Model, pytest fixtures, API testing, and CI integration.
 
 ## What this covers
